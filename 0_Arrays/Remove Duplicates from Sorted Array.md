@@ -22,8 +22,6 @@ Input: nums = [1,1,2,3,4]
 Output: [1,2,3,4]
 ```
 
-Copy
-
 Explanation: You should return `k = 4` as we have four unique elements.
 
 **Example 2:**
@@ -33,8 +31,6 @@ Input: nums = [2,10,10,30,30,30]
 
 Output: [2,10,30]
 ```
-
-Copy
 
 Explanation: You should return `k = 3` as we have three unique elements.
 
