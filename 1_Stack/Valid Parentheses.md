@@ -1,12 +1,3 @@
----
-created: 2025-05-19T15:38:00
-parent: "[[DSA]]"
-tags:
-  - "#dsa/company/google"
-  - "#dsa/difficulty/easy"
-  - "#dsa/stack"
-related:
----
 ## **LeetCode Link:** [#20](https://neetcode.io/problems/validate-parentheses/) 
 
 ## **Description**
